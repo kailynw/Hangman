@@ -1,2 +1,2 @@
 # Hangman
-Hangman game created in python using graphics library
+Reads words in a file and scrambles those words for the user to guess in a hangman game
