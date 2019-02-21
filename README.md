@@ -1,2 +1,2 @@
 # Hangman
-Reads words in a file and scrambles those words for the user to guess in a hangman game
+Reads in a file, randomly picks words in the file for the user to guess in the hangman game
